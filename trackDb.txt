@@ -1,7 +1,0 @@
-track carpGenes
-shortLabel Carp genes
-longLabel Common carp gene models (AUGUSTUS)
-type bigBed 12
-visibility pack
-bigDataUrl https://www.dropbox.com/scl/fi/s0b8do2jccbtg7k6j82zt/genes.bb?rlkey=s16wrwcgr4ls4dwzviu0jqzfn&st=tosbhn8c&dl=1
-priority 1
