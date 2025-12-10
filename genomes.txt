@@ -1,3 +1,0 @@
-genome carp1
-trackDb trackDb.txt
-twoBitPath https://www.dropbox.com/scl/fi/35s0kw6am8zqzqy8qixe1/unclassified_fish.2bit?rlkey=5pkri4y9qax86fmjaownp4x1i&st=m29f8v3q&dl=1
