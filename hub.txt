@@ -1,5 +1,0 @@
-hub carpHub
-shortLabel CarpHub
-longLabel Common carp pangenome (AUGUSTUS)
-genomesFile genomes.txt
-email akashmhosmani@gmail.com.com
