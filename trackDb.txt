@@ -1,0 +1,7 @@
+track carpGenes
+shortLabel Carp genes
+longLabel Common carp gene models (AUGUSTUS)
+type bigBed 12
+visibility pack
+bigDataUrl https://github.com/Akashmh/Common-Carp/raw/refs/heads/main/genes.bb
+priority 1

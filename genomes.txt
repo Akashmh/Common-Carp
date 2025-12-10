@@ -1,0 +1,7 @@
+genome carp1
+trackDb trackDb.txt
+twoBitPath https://github.com/Akashmh/Common-Carp/raw/refs/heads/main/unclassified_fish.2bit
+organism Common_carp
+defaultPos SRR924317_primary_scf7180000070976:1-2000
+description Common carp pangenome assembly
+scientificName Cyprinus_carpio
